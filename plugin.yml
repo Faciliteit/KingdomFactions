@@ -4,29 +4,29 @@ version: 1.0.0
 authors: [steenooo, wouter_MC, Jannyboy11]
 commands:
   endersee:
-    description: enter a players enderchest!
+    description: Enter a players enderchest!
     aliases: [enderchest]
   invsee:
-    description: enter a players inventory!    
+    description: Enter a players inventory!    
     aliases: [inventory]
   fly:
-    description: fly!  
+    description: Fly!  
   nightvision:
-    description: nightvision!
+    description: Nightvision!
   tp:
-    description: tp to a player!
+    description: TP to a player!
   tphere:
-    description: tp a player to your location!
+    description: TP a player to your location!
   godmode:
-    description: switch godmode!
+    description: Switch godmode!
     aliases: [god]
   time:
-    description: display your time
+    description: Display your time
   gamemode:
-    descrition: switch between gamemodes!
+    descrition: Switch between gamemodes!
     aliases: [gm]
   channel:
-    description: channel
+    description: Channel
     aliases: [c]
   reply:
     description: Reageer op een prive bericht
@@ -35,22 +35,22 @@ commands:
     description: Stuur een Prive bericht
     aliases: [tell, whisper]
   kingdom:
-    description: main command for kingdoms
+    description: Main command for kingdoms
     aliases: [kd, k]
   faction:
-    description: main command for factions
+    description: Main command for factions
     aliases: [f, fac]
   say:
-    description: say stuff.
+    description: Say stuff
   broadcast:
-    description: broadcast command
+    description: Broadcast command
     aliases: [bc]
   pay:
-    description: pay command
+    description: Pay command
   coins:
-    description: coins command
+    description: Coins command
   nexus:
-    description: nexus command
+    description: Nexus command
   Spy:
     description: Enable/disable spymode!
   Influence:
